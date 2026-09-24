@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "PkRMdPhqxJ4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NIZAR\\Documents\\ESTUDIOS\\EntornoServidor\\AccidentesMadrid\\AccidentesMadrid\\AccidentesMadrid.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NIZAR\\.nuget\\packages\\apache.arrow\\14.0.2\\apache.arrow.14.0.2.nupkg.sha512",
+    "C:\\Users\\NIZAR\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\NIZAR\\.nuget\\packages\\lg.microsoft.data.analysis\\0.18.0.4\\lg.microsoft.data.analysis.0.18.0.4.nupkg.sha512",
+    "C:\\Users\\NIZAR\\.nuget\\packages\\lg.microsoft.ml.dataview\\1.6.0.4\\lg.microsoft.ml.dataview.1.6.0.4.nupkg.sha512",
+    "C:\\Users\\NIZAR\\.nuget\\packages\\microsoft.data.analysis\\0.23.0\\microsoft.data.analysis.0.23.0.nupkg.sha512",
+    "C:\\Users\\NIZAR\\.nuget\\packages\\microsoft.ml.dataview\\5.0.0\\microsoft.ml.dataview.5.0.0.nupkg.sha512",
+    "C:\\Users\\NIZAR\\.nuget\\packages\\moq\\4.20.72\\moq.4.20.72.nupkg.sha512",
+    "C:\\Users\\NIZAR\\.nuget\\packages\\nunit\\4.6.1\\nunit.4.6.1.nupkg.sha512",
+    "C:\\Users\\NIZAR\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
+    "C:\\Users\\NIZAR\\.nuget\\packages\\system.numerics.tensors\\9.0.4\\system.numerics.tensors.9.0.4.nupkg.sha512",
+    "C:\\Users\\NIZAR\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\NIZAR\\.nuget\\packages\\xunit.core\\2.9.3\\xunit.core.2.9.3.nupkg.sha512",
+    "C:\\Users\\NIZAR\\.nuget\\packages\\xunit.extensibility.core\\2.9.3\\xunit.extensibility.core.2.9.3.nupkg.sha512",
+    "C:\\Users\\NIZAR\\.nuget\\packages\\xunit.extensibility.execution\\2.9.3\\xunit.extensibility.execution.2.9.3.nupkg.sha512"
+  ],
+  "logs": []
+}
